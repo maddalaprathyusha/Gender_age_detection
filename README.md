@@ -70,6 +70,18 @@ OpenCV (opencv-python)
 
 NumPy
 
+**How to run?:**
+
+
+Install required packages:
+
+pip install opencv-python numpy
+
+Run the detection script:
+python age_gender_detection.py 
+Or to use webcam:
+python age_gender_detection.py
+
 **Output:**
 
 Mean values for model normalization: [78.4263377603, 87.7689143744, 114.895847746]
